@@ -1,7 +1,7 @@
 ---
 title: Invert Binary Tree
 language: JavaScript
-tags: [tree, recursion]
+tags: tree, recursion
 difficulty: Easy
 ---
 
